@@ -78,5 +78,6 @@ Setting up the server
     
     http://php.net/manual/en/book.mongo.php
 
-Connect to the server and add the files php to the directory 
+Connect to the server and add the php files to the directory 
+
   /var/www/html/
