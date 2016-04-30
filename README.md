@@ -1,5 +1,5 @@
 # PHP-Mongo
-**Setting up the server**
+Setting up the server
 
 #We need to install 3 things:
 
@@ -78,3 +78,5 @@
     
     http://php.net/manual/en/book.mongo.php
 
+Connect to the server and add the files php to the directory 
+  /var/www/html/
