@@ -78,6 +78,17 @@ Setting up the server
     
     http://php.net/manual/en/book.mongo.php
 
-Connect to the server and add the php files to the directory 
+Connect to the server and add the php files to the directory: 
+  
+    /var/www/html/
 
-  /var/www/html/
+#Add the current collection
+
+Upload the server.json file to the server.
+
+Type in terminal: 
+  
+    mongoimport --db map --collection poi2 --file server.json
+
+This imports the document to the map database in the poi2 collection.
+  
