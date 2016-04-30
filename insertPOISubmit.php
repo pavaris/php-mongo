@@ -30,7 +30,6 @@
         $collection = $connection->map->poi2 ;
         $collection->insert( $doc );
 
-    
     ?>
     
     Name: <?php echo $name; ?><br>
