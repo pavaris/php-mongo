@@ -82,6 +82,8 @@ Connect to the server and add the php files to the directory:
   
     /var/www/html/
 
+In MongoDB, there can be multiple databases with numerous collections within that database. In our project, we are using a database called map and a collection called poi2.
+
 #Add the current collection
 
 Upload the server.json file to the server.
